@@ -8,4 +8,4 @@
 3. [Data Analytics and Learning 2](https://colab.research.google.com/drive/1-V0ttFtR_1vUnXYgtudSB1sAgU0vcYRO?usp=sharing)
 4. [Financial Analytics](https://colab.research.google.com/drive/1HWHUM5LsCcLh1L9dokcS6YiG57Vy4KZB?usp=sharing)
 5. [ML, text and Social Media Mining](https://colab.research.google.com/drive/1j-wwkNTRN891jVtt_4faZwbOCQ_FQQL3?usp=sharing)
-6. [Statistical Applications with R](https://lwellingtondaniel7.github.io/SAR-Project/#overview)
+6. [Statistical Applications with R](https://lwellingtondaniel7.github.io/SAR-Project/#overview) **[Deployed]**
