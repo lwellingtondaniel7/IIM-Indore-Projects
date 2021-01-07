@@ -2,7 +2,7 @@
 
 **Wellington Daniel**
 
-### Courses:
+### Course Projects:
 1. [Applied Predictive Analytics](https://github.com/lwellingtondaniel7/IIM-Indore-Projects/blob/master/Applied%20Predictive%20%20Analytics.pdf)
 2. [Data Analytics and Learning 1](https://colab.research.google.com/drive/1nHi9kgUfX9dDzPVd2dLJrBO2H2_qlNMp?usp=sharing)
 3. [Data Analytics and Learning 2](https://colab.research.google.com/drive/1-V0ttFtR_1vUnXYgtudSB1sAgU0vcYRO?usp=sharing)
