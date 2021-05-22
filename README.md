@@ -9,4 +9,4 @@
 4. [Financial Analytics](https://colab.research.google.com/drive/1HWHUM5LsCcLh1L9dokcS6YiG57Vy4KZB?usp=sharing)
 5. [ML, text and Social Media Mining](https://colab.research.google.com/drive/1j-wwkNTRN891jVtt_4faZwbOCQ_FQQL3?usp=sharing)
 6. [Statistical Applications with R](https://lwellingtondaniel7.github.io/SAR-Project/#overview) **[Deployed]**
-7. Advanced Machine Learning *(March 2021)*
+7. [Process Optimization Algorithm *(Schneider Electric)*](https://colab.research.google.com/drive/1nsqlagwt_WFoOZlowbGjJ6egy81rhs_-?usp=sharing)
